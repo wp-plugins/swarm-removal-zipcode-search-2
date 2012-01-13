@@ -1,4 +1,4 @@
-=== PHP Shortcode ===
+=== Swarm Removal Search by Zipcode ===
 Contributors: tarheit
 Donate link: 
 Tags: post, pages, posts, swarm, swarm removal, bee removal
